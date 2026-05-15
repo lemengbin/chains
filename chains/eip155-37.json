@@ -1,0 +1,23 @@
+{
+  "name": "CONX Chain",
+  "chain": "CONX",
+  "rpc": ["https://dimension-evm-rpc.xpla.dev"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "XPLA",
+    "symbol": "XPLA",
+    "decimals": 18
+  },
+  "infoURL": "https://conx.xyz",
+  "shortName": "conx",
+  "chainId": 37,
+  "networkId": 37,
+  "icon": "conx",
+  "explorers": [
+    {
+      "name": "CONX Explorer",
+      "url": "https://explorer.conx.xyz/mainnet",
+      "standard": "EIP3091"
+    }
+  ]
+}
